@@ -1,0 +1,26 @@
+<annotation>
+	<folder>全身照</folder>
+	<filename>google-image(0424).jpeg</filename>
+	<path>C:\Users\III\Desktop\全身照\google-image(0424).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>50</ymin>
+			<xmax>272</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

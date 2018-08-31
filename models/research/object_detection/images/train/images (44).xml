@@ -1,0 +1,26 @@
+<annotation>
+	<folder>全身照</folder>
+	<filename>images (44).jpg</filename>
+	<path>C:\Users\III\Desktop\全身照\images (44).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>171</width>
+		<height>295</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>26</ymin>
+			<xmax>120</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>
